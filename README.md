@@ -47,9 +47,9 @@ This step is completed in Ubuntu 16.04
 ### Pose2vid network
 
 #### Make target pictures
-* put the `2.mp4` and `anno_2` in `./data/1` and rename it to `video.mp4` and `anno`
+* put the `2.mp4` and `anno_2` in `./data/2` and rename it to `video.mp4` and `anno`
 
-* Run `python target.py --name 1`
+* Run `python target.py --name 2`
 
 #### Make source pictures
 * put the `1.mp4` and `anno_1` in `./data/1` and rename it to `video.mp4` and `anno`
